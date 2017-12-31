@@ -1,5 +1,5 @@
 # AutoMapperDependencyInjectionSample
-The code sample that shows how to use Dependency Injection using AutoMapper and ASP.NET Core.
+This code sample shows how to use Dependency Injection using AutoMapper and ASP.NET Core.
 The code also uses the `AutoMapper.Extensions.Microsoft.DependencyInjection` package ([source code on GitHub](https://github.com/AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection)).
 
 ## Some facts
